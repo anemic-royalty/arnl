@@ -9,7 +9,7 @@ A completely unofficial Linux client for Nicehash.
 * Custom commands: performing custom commands either before and/or after a miner finishes. Useful for tailored overclocking for
 some algorithms.
 * Switching statistics: keeps track of algorithm switching and whether they were switched out of while having at least one accepted share or not.
-* Customizable donation of mining time to the developer.
+* Customizable donation to the developer.
 
 # Requirements
 * Python 3
